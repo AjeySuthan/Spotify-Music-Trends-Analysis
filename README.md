@@ -80,7 +80,7 @@ Across three eras (1990-1999, 2000-2014, 2015-2024), songs in this dataset becam
 
 **Hit rate by loudness band:** 2.6% for very quiet songs (below -12 dB), 6.5% for quiet (-12 to -9 dB), 10.0% for loud (-9 to -6 dB), and 16.7% for very loud songs (above -6 dB). A very loud song is about six times as likely to be a hit as a very quiet one. As a check, the gaps between hits and non-hits were about the same inside 1990 to 2014 and inside 2015 to 2024 (loudness +2.73 and +2.81 dB), so the result is not caused by mixing eras.
 
-![Hit profile dashboard page](dashboard/screenshots/hit_profile_page.png)
+![Hit profile dashboard page](Dashboard/Screenshots/hit_profile_page.png)
 
 Hit rate by loudness band, sound features of hits vs non-hits, and the comparison table.
 
