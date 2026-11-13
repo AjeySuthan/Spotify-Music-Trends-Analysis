@@ -49,7 +49,7 @@ This project analyzes about 62,000 Spotify tracks to answer two questions:
 | Energy | 0.521 | 0.616 | 0.608 | +0.087 | rose, then flat |
 | Danceability | 0.631 | 0.593 | 0.596 | -0.035 | small dip, then flat |
 
-![trends_page.png](dashboard/screenshots/trends_page.png)
+![trends_page.png](Dashboard/Screenshots/trends_page.png)
 
 Line charts by year for each feature, songs per year, and the three-era table. Loudness values are negative (dB).
 
